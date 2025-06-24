@@ -1,6 +1,6 @@
 # VIT-CONNECT-CLUB-HUB
 
-#Overview
+# Overview
 
 **VIT Connect: Club Hub** is a centralized digital platform designed for VIT Chennai to integrate and manage all student clubs under one portal. Developed using the **.NET Framework with C#** for backend logic and **Microsoft SQL Server Management Studio (SSMS)** as the database, this system simplifies club management, event communication, student participation tracking, and administrative oversight.
 
